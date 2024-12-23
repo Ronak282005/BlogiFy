@@ -5,4 +5,6 @@ basic Blog website.
 - expresjs
 - JWT
 - mongodb
+- ejs
+- mongoose
 - etc
