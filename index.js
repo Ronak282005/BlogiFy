@@ -8,7 +8,7 @@ const mongoose = require("mongoose")
 const cookieParser = require("cookie-parser")
 const { checkForAuthenticateCookie } = require("./middlewares/authentication")
 
-mongoose.connect("mongodb+srv://ronakcoder340:2005@cluster0.jy89n.mongodb.net/blogify").then((e)=>{
+mongoose.connect("mongodb+srv://ronakcoder340:xxxxxxxx@cluster0.jy89n.mongodb.net/blogify").then((e)=>{
     console.log("mongodb connected succesfully");
 })
 
